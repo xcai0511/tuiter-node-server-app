@@ -11,7 +11,7 @@ export default [
         "handle": "@boringcompany", "time": "2h", "image": "icon-tbc.png",
         "title": "The Boring Company fixing traffic",
         "tuit": "The Boring Company (TBC) is an American infrastructure and tunnel construction services company founded by Elon Musk. Its ongoing and proposed projects are designed for intra-city ('loop') transit systems.",
-        "liked": true, "likes": 2345, "replies": 321, "retuits": 432
+        "liked": true, "likes": 2346, "replies": 321, "retuits": 432
     },
     {
         "_id": "345", "topic": "Brain Injuries", "username": "Neurolink",
