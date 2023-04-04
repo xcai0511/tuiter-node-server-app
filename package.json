@@ -30,7 +30,7 @@
     "express": "^4.18.2",
     "mongoose": "^7.0.3"
   },
-  "engins": {
+  "engines": {
     "node": ">=14.20.1"
   }
 }
